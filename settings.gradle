@@ -1,0 +1,2 @@
+include ':pcj'
+project( ':pcj' ).projectDir = new File(settingsDir, 'pcj' )
